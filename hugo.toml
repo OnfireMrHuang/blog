@@ -1,7 +1,7 @@
 # === LoveIt 主题博客配置 ===
 
 # 部署后改为你的真实域名，例如 https://www.yourdomain.com
-baseURL = "https://example.org/"
+baseURL = "https://harryhuang.space"
 
 # 主题
 theme = "LoveIt"
