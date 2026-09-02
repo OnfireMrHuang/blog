@@ -1,4 +1,4 @@
 {
-  "buildCommand": "git submodule update --init --recursive && hugo --minify",
+  "buildCommand": "hugo --minify",
   "outputDirectory": "public"
 }
