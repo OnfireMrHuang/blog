@@ -10,3 +10,4 @@ resources/
 .idea/
 .vscode/
 *.swp
+default.profraw
